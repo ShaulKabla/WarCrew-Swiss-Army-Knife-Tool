@@ -9,4 +9,4 @@ handling, note-taking, and real-time log management.\
 Can be used in Kali-Linux environment only\
 For Ethical hacking use only\
 Require Root privilges to run\
-Please use sudo for the script\
+Please use sudo for the script
