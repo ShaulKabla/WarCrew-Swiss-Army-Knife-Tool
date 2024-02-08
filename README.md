@@ -1,6 +1,6 @@
 # WarCrew-Swiss-Army-Knife-Tool
-Goal: Developed an innovative tool to streamline Capture The Flag (CTF) challenges. Leveraged Bash
-scripting skills to create a dynamic solution tailored to my evolving expertise and the intricacies of encountered
+# Goal: Developed an innovative tool to streamline Capture The Flag (CTF) challenges.
+Leveraged Bash scripting skills to create a dynamic solution tailored to my evolving expertise and the intricacies of encountered
 challenges
 • Developed an intuitive command-line interface to facilitate easy access to essential hacking tools like Nmap,
 Nikto, and Gobuster, with customized scans and automated logging
